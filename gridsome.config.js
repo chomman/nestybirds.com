@@ -58,6 +58,7 @@ module.exports = {
             items: [
               '/nestjs/first-step/',
               '/nestjs/controllers/',
+              '/nestjs/providers/',
             ]
           },
           // {
