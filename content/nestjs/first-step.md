@@ -97,4 +97,4 @@ $ npm run start
 
 #### 주석
 
-- *이 페이지는 [Nest.js](https://docs.nestjs.com/v6/first-steps)의 비공식 한글 번역본입니다.*
+- *이 페이지는 [Nest.js](https://docs.nestjs.com/first-steps)의 비공식 한글 번역본입니다.*
